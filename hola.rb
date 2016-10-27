@@ -1,2 +1,4 @@
-puts "Hola Mundo"
+puts "Dime tu nombre"
+nombre = gets.chomp
+puts "Hola " + nombre
 puts "Aquí estamos aprendiendo Ruby."
